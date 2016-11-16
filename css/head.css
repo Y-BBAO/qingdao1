@@ -1,0 +1,45 @@
+
+#bt{
+	width: 100%;
+	background: #f4f4f4;
+}
+#bt_con{
+	width: 960px;
+	height: 80px;
+	margin: 0 auto;
+	overflow: hidden;
+	line-height: 80px;
+}
+#bt_con img{
+	width: 200px;
+	height: 80px;
+	float: left;	
+}
+#bt_con a{
+	float: right;
+	font-size: 14px;
+	color: #fe9b00;
+	margin-left: 80px;
+	font-weight: bolder;
+}
+	/* 表头 */
+#lasthead{
+	width: 100%;
+	background: #e2e2e2;
+}
+#lasthead_con{
+	width: 960px;
+	height: 80px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#lasthead_con span{
+	width: 500px;
+	margin-top: 18px;
+	color: #666666;
+	float: left;
+}
+#lasthead_con img{
+	float: right;
+	margin-top: 18px;
+}
